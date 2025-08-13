@@ -1,6 +1,6 @@
-# 🛰️ Network Anomaly Detection using Machine Learning (KDD Cup 2019)
+# 🛰️ Network Anomaly Detection using Machine Learning (KDD Cup 1999)
 
-A **machine learning-based cybersecurity system** designed to detect anomalous network traffic patterns using the **KDD Cup 2019 dataset**.  
+A **machine learning-based cybersecurity system** designed to detect anomalous network traffic patterns using the **KDD Cup 1999 dataset**.  
 The goal is to improve **network intrusion detection** by classifying traffic into normal or malicious categories with high accuracy.
 
 ---
@@ -19,7 +19,7 @@ By preprocessing the dataset, selecting the most relevant features, and training
 
 ## 📂 Dataset
 - **Name:** KDD Cup 2019 Dataset  
-- **Source:** [KDD Cup Official Website](https://www.kdd.org/kdd2019/kdd-cup)  
+- **Source:** [KDD Cup Official Website](https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data)  
 - **Description:** Labeled network traffic records containing both normal and attack samples.  
 - **Features:** Includes protocol type, service, connection duration, packet statistics, and more.
 
